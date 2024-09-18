@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rudrapratapakash
 - 👀 I’m interested in doing Jobs in IT Company
 - 🌱 I’m currently learning Javascript
-- 
 - 📫 E-mail id - rudrapratapakash@gmail.com
 
 <!---
