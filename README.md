@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rudrapratapakash
+- 👋 Hi, I’m Rudra Pratap Akash
 - 👀 I’m interested in doing Jobs in IT Company
 - 🌱 I’m currently learning Javascript
 - 📫 E-mail id - rudrapratapakash@gmail.com
